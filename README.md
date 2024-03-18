@@ -1,4 +1,4 @@
-# toetap-usb-controller
+# ToeTap
 A human interface device for your toes 🦶⌨️
 
 ![toetap top view](images/toetap-small.jpg)
