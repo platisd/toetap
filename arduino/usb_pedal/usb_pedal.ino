@@ -72,7 +72,7 @@ private:
 
 void doLeftSensorAction() {
   Serial.println("Left sensor pressed");
-  Mouse.move(0, 0, -1);
+  Mouse.move(0, 0, 1);
 }
 
 void doMiddleSensorAction() {
@@ -82,7 +82,7 @@ void doMiddleSensorAction() {
 
 void doRightSensorAction() {
   Serial.println("Right sensor pressed");
-  Mouse.move(0, 0, 1);
+  Mouse.move(0, 0, -1);
 }
 
 void setup() {
