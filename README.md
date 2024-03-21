@@ -23,7 +23,7 @@ The following components are necessary to build ToeTap:
 - Arduino Pro Micro clone in a "square" form factor where the USB port is part of the board
   - It is often marketed as `Mini SS Micro ATMEGA32U4`
   - You may need to add some electrical tape on the USB side to make sure it doesn't wiggle when you connect it
-- 3x 220Ω resistors
+- 9x 220Ω resistors
 - [3D-printed components](https://www.tinkercad.com/things/i6qfPpNWuRz-toetap)
 
 #### PCB Assembly
